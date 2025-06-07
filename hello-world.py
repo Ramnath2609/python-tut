@@ -7,6 +7,10 @@ a.append(4)
 
 print(a)
 
+a.insert(2, 10)
+
+print(a)
+
 print("Length of the array is", len(a))
 
 if 6 in a:
